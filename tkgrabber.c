@@ -53,7 +53,7 @@ namespace pull
                 }
                 else
                 {
-                   // fuck....
+                   
                 }
                 Console.WriteLine();
             }
